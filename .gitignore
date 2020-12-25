@@ -2,4 +2,4 @@
 .vscode
 
 # Files
-dev_api_key.json
+data/dev_api_key.json
