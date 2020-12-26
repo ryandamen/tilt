@@ -1,0 +1,46 @@
+[
+    {
+        "region_id": "br1",
+        "region_name": "Brazil"
+    },
+    {
+        "region_id": "eun1",
+        "region_name": "Europe Nordic & East"
+    },
+    {
+        "region_id": "euw1",
+        "region_name": "Europe West"
+    },
+    {
+        "region_id": "jp1",
+        "region_name": "Japan"
+    },
+    {
+        "region_id": "kr",
+        "region_name": "Korea"
+    },
+    {
+        "region_id": "la1",
+        "region_name": "Latin America North"
+    },
+    {
+        "region_id": "la2",
+        "region_name": "Latin America South"
+    },
+    {
+        "region_id": "na1",
+        "region_name": "North America"
+    },
+    {
+        "region_id": "oc1",
+        "region_name": "Oceania"
+    },
+    {
+        "region_id": "tr1",
+        "region_name": "Turkey"
+    },
+    {
+        "region_id": "ru",
+        "region_name": "Russia"
+    }
+]
