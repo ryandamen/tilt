@@ -13,8 +13,16 @@ Todo list
 * [ ] Make it so that if the error was 403 that you can input a new API key and it updates the old one to the new one https://developer.riotgames.com/docs/portal#web-apis_response-codes
 * [ ] Plan next steps
 * [ ]
-* [ ]
-* [ ]
-* [ ]
-* [ ]
-* [ ]
+* [ ] Write Abstract
+* [ ] Write Intro
+* [ ] Write Lit review / Theoretical background
+* [ ] Write Method
+* [ ] Write Results
+* [ ] Write Discussion
+* [ ] Proofread person 1
+* [ ] Incorporate person 1 feedback 
+* [ ] Proofread person 2
+* [ ] Incorporate person 2 feedback 
+* [ ] 
+* [ ] 
+ 
