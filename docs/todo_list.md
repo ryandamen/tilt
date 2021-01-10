@@ -15,9 +15,21 @@ Todo list
 * [ ] Calculate life long KDA of alnas
 * [ ] Plan next steps
 * [ ]
+
+* [ ] Decide a home: A) submit as a conference or journal, and B) where
+* [ ] Once home decided, add deadline to the to do list
+
+
+* [ ] Write Abstract
+* [ ] Write Intro
+* [ ] Write Lit review / Theoretical background
+* [ ] Write Method
+* [ ] Write Results
+* [ ] Write Discussion
+* [ ] Proofread person 1
+* [ ] Incorporate person 1 feedback
+* [ ] Proofread person 2
+* [ ] Incorporate person 2 feedback
 * [ ]
 * [ ]
-* [ ]
-* [ ] Make the requests test for errors( which ones?)
-* [ ]
-* [ ]
+
