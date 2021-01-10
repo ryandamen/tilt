@@ -6,15 +6,18 @@ Todo list
 * [X] ~~*Access player info*~~ [2020-12-24]
 * [X] ~~*Access match info*~~ [2020-12-24]
 * [X] ~~*Retrieve last 100 matches from a player of a certain que*~~ [2020-12-26]
-* [ ] Calculate the season & match KDA of alnas
-* [ ] Retrieve the KDA of alnas
-* [ ] Create a better calculator for KDA that it is able to handle 0 deaths
-* [ ] Make the request test for errors
-* [ ] Make it so that if the error was 403 that you can input a new API key and it updates the old one to the new one https://developer.riotgames.com/docs/portal#web-apis_response-codes
+* [X] ~~*Check if the API key is valid*~~ [2020-12-27]
+* [ ] Create a function that calculates KDA and is able to handle 0 deaths
+* [ ] Retrieve the KDA of alnas from a single match, single queue
+* [ ] Retrieve the KDA of alnas from X matchs, single queue
+* [ ] Retrieve the KDA of alnas from X matchs, all queues
+* [ ] Calculate the season KDA of alnas per queue
+* [ ] Calculate life long KDA of alnas
 * [ ] Plan next steps
 * [ ]
 * [ ]
 * [ ]
 * [ ]
+* [ ] Make the requests test for errors( which ones?)
 * [ ]
 * [ ]
