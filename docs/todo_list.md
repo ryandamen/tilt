@@ -7,15 +7,15 @@ Todo list
 * [X] ~~*Access match info*~~ [2020-12-24]
 * [X] ~~*Retrieve last 100 matches from a player of a certain que*~~ [2020-12-26]
 * [X] ~~*Check if the API key is valid*~~ [2020-12-27]
-* [ ] Create a function that calculates KDA and is able to handle 0 deaths
+* [X] ~~*Create a function that calculates KDA and is able to handle 0 deaths*~~ [2021-01-24]
 * [ ] Retrieve the KDA of alnas from a single match, single queue
 * [ ] Retrieve the KDA of alnas from X matchs, single queue
 * [ ] Retrieve the KDA of alnas from X matchs, all queues
 * [ ] Calculate the season KDA of alnas per queue
 * [ ] Calculate life long KDA of alnas
 * [ ] Plan next steps
-* [ ]
-
+* [ ] take last game per season
+* [ ] take last games of the last patch per season
 * [ ] Decide a home: A) submit as a conference or journal, and B) where
 * [ ] Once home decided, add deadline to the to do list
 
