@@ -41,9 +41,6 @@ Writing
 
 Coding 
 * [ ] Get summoner IDs & names by region, tier & division https://developer.riotgames.com/apis#league-exp-v4/GET_getLeagueEntries
-    * [ ] iterate through the pages
-    * [ ] put everything in the right order (tier > division > page)
-     * [ ] when done put the dataframe in a dict where the key is the tier+division
     * [ ] fully collect dataset for Challenger (1 division, 1 pages)
     * [ ] fully collect dataset for Grandmaster (1 division, 4 pages)
     * [ ] Put it into a method so you can call it (def ... return ... )
