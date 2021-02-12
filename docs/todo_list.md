@@ -41,8 +41,8 @@ Writing
 
 Coding 
 * [ ] Get summoner IDs & names by region, tier & division https://developer.riotgames.com/apis#league-exp-v4/GET_getLeagueEntries
-    * [ ] fully collect dataset for Challenger (1 division, 1 pages)
-    * [ ] fully collect dataset for Grandmaster (1 division, 4 pages)
+    * [X] fully collect dataset for Challenger (1 division, 1 pages)
+    * [X] fully collect dataset for Grandmaster (1 division, 4 pages)
     * [ ] Put it into a method so you can call it (def ... return ... )
 * [ ] Get account ID by summoner ID or name https://developer.riotgames.com/apis#summoner-v4/GET_getBySummonerName
 * [ ] Get matchlist by account ID https://developer.riotgames.com/apis#match-v4/GET_getMatchlist
