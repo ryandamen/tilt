@@ -40,10 +40,10 @@ Writing
 * [ ] Incorporate person 2 feedback
 
 Coding 
-* [ ] Get summoner IDs & names by region, tier & division https://developer.riotgames.com/apis#league-exp-v4/GET_getLeagueEntries
+* [X] Get summoner IDs & names by region, tier & division https://developer.riotgames.com/apis#league-exp-v4/GET_getLeagueEntries [2021-02-13]
     * [X] fully collect dataset for Challenger (1 division, 1 pages)
     * [X] fully collect dataset for Grandmaster (1 division, 4 pages)
     * [ ] Put it into a method so you can call it (def ... return ... )
-* [ ] Get account ID by summoner ID or name https://developer.riotgames.com/apis#summoner-v4/GET_getBySummonerName
+* [X] Get account ID by summoner ID or name https://developer.riotgames.com/apis#summoner-v4/GET_getBySummonerName [2021-02-15]
 * [ ] Get matchlist by account ID https://developer.riotgames.com/apis#match-v4/GET_getMatchlist
     Can filter by the endTime and beginTime --> 	The end time to use for filtering matchlist specified as epoch milliseconds. If beginTime is specified, but not endTime, then endTime defaults to the the current unix timestamp in milliseconds (the maximum time range limitation is not observed in this specific case). If endTime is specified, but not beginTime, then beginTime defaults to the start of the account's match history returning a 400 due to the maximum time range limitation. If both are specified, then endTime should be greater than beginTime. The maximum time range allowed is one week, otherwise a 400 error code is returned.
