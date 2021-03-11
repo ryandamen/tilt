@@ -9,7 +9,7 @@ Todo list
 * [X] ~~*Check if the API key is valid*~~ [2020-12-27]
 * [X] ~~*Create a function that calculates KDA and is able to handle 0 deaths*~~ [2021-01-24]
 * [X] ~~*Retrieve the KDA of player from a single match, ranked queue*~~ [2021-02-03]
-* [X] ~~*Retrieve the KDA of player from a multiple matches, ranked queue**~~ [2021-02-06]
+* [X] ~~*Retrieve the KDA of player from a multiple matches, ranked queue*~~ [2021-02-06]
 * [ ] Retrieve the KDA of player from a single match, ranked queue based on time
 * [ ] Retrieve the KDA of player from one season matchs, ranked queue
 * [ ] Retrieve the KDA of player from one season matchs, ranked & normal queue
