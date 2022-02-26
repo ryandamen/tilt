@@ -1,46 +1,68 @@
 [
     {
-        "region_id": "br1",
+        "region_id": "br",
+        "region_abbr_id": "br1",
+        "riotwatcher_id": "americas",
         "region_name": "Brazil"
     },
     {
-        "region_id": "eun1",
+        "region_id": "eune",
+        "region_abbr_id": "eun1",
+        "riotwatcher_id": "europe",
         "region_name": "Europe Nordic & East"
     },
     {
-        "region_id": "euw1",
+        "region_id": "euw",
+        "region_abbr_id": "euw1",
+        "riotwatcher_id": "europe",
         "region_name": "Europe West"
     },
     {
-        "region_id": "jp1",
+        "region_id": "jp",
+        "region_abbr_id": "jp1",
+        "riotwatcher_id": "asia",
         "region_name": "Japan"
     },
     {
         "region_id": "kr",
+        "region_abbr_id": "kr",
+        "riotwatcher_id": "asia",
         "region_name": "Korea"
     },
     {
-        "region_id": "la1",
+        "region_id": "lan",
+        "region_abbr_id": "la1",
+        "riotwatcher_id": "americas",
         "region_name": "Latin America North"
     },
     {
-        "region_id": "la2",
+        "region_id": "las",
+        "region_abbr_id": "la2",
+        "riotwatcher_id": "americas",
         "region_name": "Latin America South"
     },
     {
-        "region_id": "na1",
+        "region_id": "na",
+        "region_abbr_id": "na1",
+        "riotwatcher_id": "americas",
         "region_name": "North America"
     },
     {
-        "region_id": "oc1",
+        "region_id": "oce",
+        "region_abbr_id": "oc1",
+        "riotwatcher_id": "americas",
         "region_name": "Oceania"
     },
     {
-        "region_id": "tr1",
+        "region_id": "tr",
+        "region_abbr_id": "tr1",
+        "riotwatcher_id": "europe",
         "region_name": "Turkey"
     },
     {
         "region_id": "ru",
+        "region_abbr_id": "ru",
+        "riotwatcher_id": "europe",
         "region_name": "Russia"
     }
 ]
