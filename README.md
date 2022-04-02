@@ -1,2 +1,2 @@
 # nican
-testing out the riot API
+A research insentive to study main factors in inducing tilt.
