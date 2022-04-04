@@ -1,6 +1,4 @@
 {
-    "min_lobby_time": 239000,
-    "queue": "RANKED_SOLO_5x5",
     "regions": [
         "eun1",
         "euw1",
@@ -28,5 +26,9 @@
         "III",
         "IV"
     ],
-    "protagonist": "alnas"
+    "summoner_limit": 1,
+    "start_time": 1609920000,
+    "end_time": 1631170800,
+    "max_rest": 3600000,
+    "min_streak": 3
 }
