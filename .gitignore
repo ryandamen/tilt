@@ -1,5 +1,6 @@
 # Folders
-.vscode
+.vscode/
+test/
 
 # Files
 data/dev_api_key.json
