@@ -1,24 +1,9 @@
 {
     "regions": [
-        "eun1",
-        "euw1",
-        "tr1",
-        "ru",
-        "jp1",
-        "kr",
-        "oc1",
-        "na1",
-        "br1",
-        "la1",
-        "la2"
+        "euw1"
     ],
     "tiers": [
-        "IRON",
-        "BRONZE",
-        "SILVER",
-        "GOLD",
-        "PLATINUM",
-        "DIAMOND"
+        "SILVER"
     ],
     "divisions": [
         "I",
@@ -26,7 +11,7 @@
         "III",
         "IV"
     ],
-    "summoner_limit": 1,
+    "summoner_limit": 2,
     "start_time": 1609920000,
     "end_time": 1631170800,
     "max_rest": 3600000,
