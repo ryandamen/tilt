@@ -6,10 +6,7 @@
         "SILVER"
     ],
     "divisions": [
-        "I",
-        "II",
-        "III",
-        "IV"
+        "I"
     ],
     "summoner_limit": 2,
     "start_time": 1609920000,
