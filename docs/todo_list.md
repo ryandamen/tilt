@@ -3,8 +3,7 @@ Todo list
 # Mark checkbox with ctr +shift + enter
 
 
-* [ ] Add license
-* [ ] what it mean?"individualPosition", "role", "teamPosition", "lane",
+* [ ] remove last prev game make from each players streak
 * [ ] Decide a home: A) submit as a conference or journal, and B) where
 * [ ] Once home decided, add deadline to the to do list
 

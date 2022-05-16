@@ -9,8 +9,8 @@
         "I"
     ],
     "summoner_limit": 2,
-    "start_time": 1609920000,
-    "end_time": 1631170800,
+    "prior_patch": "11.1",
+    "recent_patch": "11.19",
     "max_rest": 3600000,
     "min_streak": 3
 }
