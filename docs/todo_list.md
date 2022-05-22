@@ -4,6 +4,7 @@ Todo list
 
 
 * [ ] remove last prev game make from each players streak
+* [ ] What do do with remake games? filter them out later?
 * [ ] Decide a home: A) submit as a conference or journal, and B) where
 * [ ] Once home decided, add deadline to the to do list
 
