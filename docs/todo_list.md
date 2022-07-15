@@ -5,10 +5,15 @@ Todo list
 # Coding tasks
 
 * [ ] make Agenda
+* [ ] store the non streakers
+* [ ] Get players without streaks as a baseline
+* [ ] get a total of 30 players in each catagory
 
-Writing tasks
+# Reseach tasks
+* [ ] Find quantitatie information that describes tilt
 
-Writing
+# Writing tasks
+
 * [ ] Write Abstract
 * [ ] Write Intro
 * [ ] Write Method
@@ -22,12 +27,10 @@ Writing
 * [ ] Proofread person 2
 * [ ] Incorporate person 2 feedback
 
-Title:
-May the odds be in your favor if you jsut chill the fuck out
 
-Deadlines
-* [ ] 24 june finish the stats calculations
-* [ ] 10 july deadline for prelim paper
+# Deadlines
+* [ ] 5 july finish data collection
+* [ ] 10 july prelim paper
 * [ ] 20 july hand in something paper related prelim results work in progress
 
 # Questions
@@ -36,10 +39,14 @@ Deadlines
 
 # Notes
 * [ ] What do do with remake games?
-* [ ] remove last prev game to save memory?
 * [ ] define the error of retry
 * [ ] could be interresting to look at time of day
+* [ ] Title idea: May the odds be in your favor if you just chill the fuck out
+
+# Ideas
+* [ ] standing in fountain while not being afk is a sign of trollling?
+* [ ] add timelinedata and remove duplicate data from the regulair call
 
 
-# Setting of final run
-how many people t
+# Notes for limitations:
+* [ ] It is imposible to account for the existance of games played with friends as that is private inforomation and the que type is DUO/single which means someone can que alone or with a friend without our knowledge. SOLUTION! exclude games that have 2 the same plyers consecutivly

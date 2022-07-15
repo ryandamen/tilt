@@ -1,14 +1,23 @@
 {
     "regions": [
-        "euw1"
+        "euw1",
+        "na1"
     ],
     "tiers": [
-        "SILVER"
+        "IRON",
+        "BRONZE",
+        "SILVER",
+        "GOLD",
+        "PLATINUM",
+        "DIAMOND"
     ],
     "divisions": [
-        "I"
+        "I",
+        "II",
+        "III",
+        "IV"
     ],
-    "summoner_limit": 2,
+    "summoner_limit": 30,
     "prior_patch": "11.1",
     "recent_patch": "11.19",
     "max_rest": 3600000,
