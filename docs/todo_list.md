@@ -4,10 +4,7 @@ Todo list
 
 # Coding tasks
 
-* [ ] make Agenda
-* [ ] store the non streakers
-* [ ] Get players without streaks as a baseline
-* [ ] get a total of 30 players in each catagory
+* [ ] increase the nonstreakers to have at least 3 games
 
 # Reseach tasks
 * [ ] Find quantitatie information that describes tilt
@@ -39,9 +36,11 @@ Todo list
 
 # Notes
 * [ ] What do do with remake games?
+* [ ] There are duplicate games
 * [ ] define the error of retry
 * [ ] could be interresting to look at time of day
 * [ ] Title idea: May the odds be in your favor if you just chill the fuck out
+
 
 # Ideas
 * [ ] standing in fountain while not being afk is a sign of trollling?
@@ -50,3 +49,7 @@ Todo list
 
 # Notes for limitations:
 * [ ] It is imposible to account for the existance of games played with friends as that is private inforomation and the que type is DUO/single which means someone can que alone or with a friend without our knowledge. SOLUTION! exclude games that have 2 the same plyers consecutivly
+
+# Meeting notes from Ryan
+There are duplicate games
+use a combination of game_id and streak_id to group games
